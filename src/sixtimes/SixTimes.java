@@ -10,14 +10,14 @@ public class SixTimes
 	{
 		// TODO Auto-generated method stub
 		
-		int j = 6;
+		int t = 6;
 		int k = 0;
 		
 		for(int i = 1; i <= 12; i++)
 		{
-			k = i * j;
+			k = i * t;
 			
-			System.out.println(i + " x " + j + " = " + k);
+			System.out.println(i + " x " + t + " = " + k);
 		}
 		
 		
